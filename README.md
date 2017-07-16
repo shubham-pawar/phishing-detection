@@ -90,3 +90,6 @@ parameters that you can define when calling `DecisionTreeClassifier()`,
 take a look at the `scikit-learn` 
 [documentation](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier).
 
+Credits
+
+The credits for this code go to npapernot. I've merely created a wrapper to get people started.
