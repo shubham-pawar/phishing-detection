@@ -15,7 +15,7 @@ To get started, you should first clone this repository by running the
 following command from a `UNIX` terminal. 
 
 ```
-git clone https://github.com/shubhampawar/phishing-detection
+git clone https://github.com/shubham-pawar/phishing-detection
 ```
 
 This will download the code that trains the phishing detector, as well
