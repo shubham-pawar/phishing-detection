@@ -79,7 +79,7 @@ The accuracy of your decision tree on testing data is: 0.906129210381
 ```
 
 To understand how this was done, you can read the line by line comments 
-in the [`decision_tree.py`](https://github.com/shubhampawar/phishing-detection/blob/master/decision_tree.py) file.
+in the [`decision_tree.py`](https://github.com/shubham-pawar/phishing-detection/blob/master/decision_tree.py) file.
 
 ## What next?
 
